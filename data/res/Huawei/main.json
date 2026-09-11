@@ -5,7 +5,7 @@
   "readme": "",
   "children": [
     {
-      "name": "鸿蒙处理器",
+      "name": "华为安装谷歌套件",
       "type": "folder",
       "desc": "",
       "readme": "",
@@ -38,7 +38,7 @@
               "readme": "",
               "children": [
                 {
-                  "name": "华为谷歌",
+                  "name": "解决认证方案",
                   "type": "file",
                   "desc": "",
                   "readme": "",
@@ -63,6 +63,44 @@
       "desc": "",
       "readme": "",
       "children": []
+    },
+    {
+      "name": "麒麟处理器",
+      "type": "folder",
+      "desc": "",
+      "readme": "",
+      "children": [
+        {
+          "name": "华为 Nova 5i (710)",
+          "type": "folder",
+          "desc": "",
+          "readme": "",
+          "children": [
+            {
+              "name": "深刷跳转包(emui9)",
+              "type": "folder",
+              "desc": "",
+              "readme": "",
+              "children": [
+                {
+                  "name": "XLOADER",
+                  "type": "file",
+                  "desc": "",
+                  "readme": "",
+                  "url": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82ZWQxYzIzMzY4YTdlYjNhL0lRQmhwei1CU0FuWVFKSU5oYkc3VU04YUFTd2g1ZTAwTXlJWk1KUmFnazRRSm1B"
+                },
+                {
+                  "name": "免拆1.0-高维禁用_Seine-AL00A 9.1.0.185(C00E185R7P1)_Firmware_EMUI9.1.0_05015RSV",
+                  "type": "file",
+                  "desc": "",
+                  "readme": "",
+                  "url": "https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82ZWQxYzIzMzY4YTdlYjNhL0lRRDVlMjlXRkRQd1JibGhYeGE5NVNkd0FRVUluMWZUbjd5d2hHSGh4WDl5WHhR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "name": "主题",
