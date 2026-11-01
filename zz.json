@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "title": "Telegram",
+      "content": "@XBYbald",
+      "url": "https://t.me/XBYbald",
+      "button": "前往 Telegram"
+    },
+    {
+      "title": "哔哩哔哩",
+      "content": "@小白叶114514",
+      "url": "https://b23.tv/Am6yCwD",
+      "button": "前往 暗网"
+    },
+    {
+      "title": "酷安",
+      "content": "@BaldGrid",
+      "url": "https://www.coolapk.com/u/35803319",
+      "button": "前往 CoolApk"
+    },
+    {
+      "title": "抖音",
+      "content": "抖音号28551160809",
+      "url": "",
+      "button": "前往 抖音"
+    }
+  ]
+}

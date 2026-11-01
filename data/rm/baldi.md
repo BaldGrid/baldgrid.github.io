@@ -1,3 +1,0 @@
-### Baldi'd Basics
-
-AAGHH!
